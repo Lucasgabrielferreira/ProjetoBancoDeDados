@@ -1,0 +1,119 @@
+D:\Alessandra\Pentagono\12IA\SolucaoBancoDedados\ProjetoBancoDedados\bin\Debug\ProjetoBancoDedados.exe.config
+D:\Alessandra\Pentagono\12IA\SolucaoBancoDedados\ProjetoBancoDedados\bin\Debug\ProjetoBancoDedados.exe
+D:\Alessandra\Pentagono\12IA\SolucaoBancoDedados\ProjetoBancoDedados\bin\Debug\ProjetoBancoDedados.pdb
+D:\Alessandra\Pentagono\12IA\SolucaoBancoDedados\ProjetoBancoDedados\obj\Debug\ProjetoBancoDedados.FrmPrincipal.resources
+D:\Alessandra\Pentagono\12IA\SolucaoBancoDedados\ProjetoBancoDedados\obj\Debug\ProjetoBancoDedados.Properties.Resources.resources
+D:\Alessandra\Pentagono\12IA\SolucaoBancoDedados\ProjetoBancoDedados\obj\Debug\ProjetoBancoDedados.csproj.GenerateResource.cache
+D:\Alessandra\Pentagono\12IA\SolucaoBancoDedados\ProjetoBancoDedados\obj\Debug\ProjetoBancoDedados.exe
+D:\Alessandra\Pentagono\12IA\SolucaoBancoDedados\ProjetoBancoDedados\obj\Debug\ProjetoBancoDedados.pdb
+D:\Alessandra\Pentagono\12IA\SolucaoBancoDedados\ProjetoBancoDedados\obj\Debug\ProjetoBancoDedados.FrmUsuario.resources
+D:\Alessandra\Pentagono\12IA\SolucaoBancoDedados\ProjetoBancoDedados\bin\Debug\BouncyCastle.Crypto.dll
+D:\Alessandra\Pentagono\12IA\SolucaoBancoDedados\ProjetoBancoDedados\bin\Debug\Google.Protobuf.dll
+D:\Alessandra\Pentagono\12IA\SolucaoBancoDedados\ProjetoBancoDedados\bin\Debug\K4os.Compression.LZ4.dll
+D:\Alessandra\Pentagono\12IA\SolucaoBancoDedados\ProjetoBancoDedados\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Alessandra\Pentagono\12IA\SolucaoBancoDedados\ProjetoBancoDedados\bin\Debug\K4os.Hash.xxHash.dll
+D:\Alessandra\Pentagono\12IA\SolucaoBancoDedados\ProjetoBancoDedados\bin\Debug\MySql.Data.dll
+D:\Alessandra\Pentagono\12IA\SolucaoBancoDedados\ProjetoBancoDedados\bin\Debug\Renci.SshNet.dll
+D:\Alessandra\Pentagono\12IA\SolucaoBancoDedados\ProjetoBancoDedados\bin\Debug\System.Buffers.dll
+D:\Alessandra\Pentagono\12IA\SolucaoBancoDedados\ProjetoBancoDedados\bin\Debug\System.Memory.dll
+D:\Alessandra\Pentagono\12IA\SolucaoBancoDedados\ProjetoBancoDedados\bin\Debug\System.Numerics.Vectors.dll
+D:\Alessandra\Pentagono\12IA\SolucaoBancoDedados\ProjetoBancoDedados\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Alessandra\Pentagono\12IA\SolucaoBancoDedados\ProjetoBancoDedados\bin\Debug\Ubiety.Dns.Core.dll
+D:\Alessandra\Pentagono\12IA\SolucaoBancoDedados\ProjetoBancoDedados\bin\Debug\Zstandard.Net.dll
+D:\Alessandra\Pentagono\12IA\SolucaoBancoDedados\ProjetoBancoDedados\bin\Debug\Google.Protobuf.xml
+D:\Alessandra\Pentagono\12IA\SolucaoBancoDedados\ProjetoBancoDedados\bin\Debug\K4os.Compression.LZ4.xml
+D:\Alessandra\Pentagono\12IA\SolucaoBancoDedados\ProjetoBancoDedados\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Alessandra\Pentagono\12IA\SolucaoBancoDedados\ProjetoBancoDedados\bin\Debug\K4os.Hash.xxHash.xml
+D:\Alessandra\Pentagono\12IA\SolucaoBancoDedados\ProjetoBancoDedados\bin\Debug\MySql.Data.xml
+D:\Alessandra\Pentagono\12IA\SolucaoBancoDedados\ProjetoBancoDedados\bin\Debug\Renci.SshNet.xml
+D:\Alessandra\Pentagono\12IA\SolucaoBancoDedados\ProjetoBancoDedados\bin\Debug\System.Buffers.xml
+D:\Alessandra\Pentagono\12IA\SolucaoBancoDedados\ProjetoBancoDedados\bin\Debug\System.Memory.xml
+D:\Alessandra\Pentagono\12IA\SolucaoBancoDedados\ProjetoBancoDedados\bin\Debug\System.Numerics.Vectors.xml
+D:\Alessandra\Pentagono\12IA\SolucaoBancoDedados\ProjetoBancoDedados\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Alessandra\Pentagono\12IA\SolucaoBancoDedados\ProjetoBancoDedados\obj\Debug\ProjetoBancoDedados.csproj.CopyComplete
+D:\Alessandra\Pentagono\12IA\SolucaoBancoDedados\ProjetoBancoDedados\obj\Debug\ProjetoBancoDedados.FrmFilme.resources
+D:\Alessandra\Pentagono\12IA\SolucaoBancoDedados\ProjetoBancoDedados\obj\Debug\ProjetoBancoDedados.FrmLogin.resources
+D:\Alessandra\Pentagono\12IA\SolucaoBancoDedados\ProjetoBancoDedados\obj\Debug\ProjetoBancoDedados.FrmSala.resources
+D:\Alessandra\Pentagono\12IA\SolucaoBancoDedados\ProjetoBancoDedados\obj\Debug\ProjetoBancoDedados.FrmHRSample.resources
+D:\Alessandra\Pentagono\12IA\SolucaoBancoDedados\ProjetoBancoDedados\obj\Debug\ProjetoBancoDedados.csprojAssemblyReference.cache
+D:\Alessandra\Pentagono\12IA\SolucaoBancoDedados\ProjetoBancoDedados\obj\Debug\ProjetoBancoDedados.FrmHorario.resources
+C:\Users\Lucas\OneDrive\Documentos\Aulas de Quinta feira\ProjetoBancoDedados\bin\Debug\ProjetoBancoDedados.exe.config
+C:\Users\Lucas\OneDrive\Documentos\Aulas de Quinta feira\ProjetoBancoDedados\bin\Debug\ProjetoBancoDedados.exe
+C:\Users\Lucas\OneDrive\Documentos\Aulas de Quinta feira\ProjetoBancoDedados\bin\Debug\ProjetoBancoDedados.pdb
+C:\Users\Lucas\OneDrive\Documentos\Aulas de Quinta feira\ProjetoBancoDedados\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Lucas\OneDrive\Documentos\Aulas de Quinta feira\ProjetoBancoDedados\bin\Debug\Google.Protobuf.dll
+C:\Users\Lucas\OneDrive\Documentos\Aulas de Quinta feira\ProjetoBancoDedados\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Lucas\OneDrive\Documentos\Aulas de Quinta feira\ProjetoBancoDedados\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Lucas\OneDrive\Documentos\Aulas de Quinta feira\ProjetoBancoDedados\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Lucas\OneDrive\Documentos\Aulas de Quinta feira\ProjetoBancoDedados\bin\Debug\MySql.Data.dll
+C:\Users\Lucas\OneDrive\Documentos\Aulas de Quinta feira\ProjetoBancoDedados\bin\Debug\Renci.SshNet.dll
+C:\Users\Lucas\OneDrive\Documentos\Aulas de Quinta feira\ProjetoBancoDedados\bin\Debug\System.Buffers.dll
+C:\Users\Lucas\OneDrive\Documentos\Aulas de Quinta feira\ProjetoBancoDedados\bin\Debug\System.Memory.dll
+C:\Users\Lucas\OneDrive\Documentos\Aulas de Quinta feira\ProjetoBancoDedados\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Lucas\OneDrive\Documentos\Aulas de Quinta feira\ProjetoBancoDedados\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Lucas\OneDrive\Documentos\Aulas de Quinta feira\ProjetoBancoDedados\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Lucas\OneDrive\Documentos\Aulas de Quinta feira\ProjetoBancoDedados\bin\Debug\Zstandard.Net.dll
+C:\Users\Lucas\OneDrive\Documentos\Aulas de Quinta feira\ProjetoBancoDedados\bin\Debug\Google.Protobuf.xml
+C:\Users\Lucas\OneDrive\Documentos\Aulas de Quinta feira\ProjetoBancoDedados\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Lucas\OneDrive\Documentos\Aulas de Quinta feira\ProjetoBancoDedados\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Lucas\OneDrive\Documentos\Aulas de Quinta feira\ProjetoBancoDedados\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Lucas\OneDrive\Documentos\Aulas de Quinta feira\ProjetoBancoDedados\bin\Debug\MySql.Data.xml
+C:\Users\Lucas\OneDrive\Documentos\Aulas de Quinta feira\ProjetoBancoDedados\bin\Debug\Renci.SshNet.xml
+C:\Users\Lucas\OneDrive\Documentos\Aulas de Quinta feira\ProjetoBancoDedados\bin\Debug\System.Buffers.xml
+C:\Users\Lucas\OneDrive\Documentos\Aulas de Quinta feira\ProjetoBancoDedados\bin\Debug\System.Memory.xml
+C:\Users\Lucas\OneDrive\Documentos\Aulas de Quinta feira\ProjetoBancoDedados\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Lucas\OneDrive\Documentos\Aulas de Quinta feira\ProjetoBancoDedados\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Lucas\OneDrive\Documentos\Aulas de Quinta feira\ProjetoBancoDedados\obj\Debug\ProjetoBancoDedados.csproj.AssemblyReference.cache
+C:\Users\Lucas\OneDrive\Documentos\Aulas de Quinta feira\ProjetoBancoDedados\obj\Debug\ProjetoBancoDedados.FrmFilme.resources
+C:\Users\Lucas\OneDrive\Documentos\Aulas de Quinta feira\ProjetoBancoDedados\obj\Debug\ProjetoBancoDedados.FrmHorario.resources
+C:\Users\Lucas\OneDrive\Documentos\Aulas de Quinta feira\ProjetoBancoDedados\obj\Debug\ProjetoBancoDedados.FrmHRSample.resources
+C:\Users\Lucas\OneDrive\Documentos\Aulas de Quinta feira\ProjetoBancoDedados\obj\Debug\ProjetoBancoDedados.FrmLogin.resources
+C:\Users\Lucas\OneDrive\Documentos\Aulas de Quinta feira\ProjetoBancoDedados\obj\Debug\ProjetoBancoDedados.FrmPrincipal.resources
+C:\Users\Lucas\OneDrive\Documentos\Aulas de Quinta feira\ProjetoBancoDedados\obj\Debug\ProjetoBancoDedados.FrmSala.resources
+C:\Users\Lucas\OneDrive\Documentos\Aulas de Quinta feira\ProjetoBancoDedados\obj\Debug\ProjetoBancoDedados.FrmUsuario.resources
+C:\Users\Lucas\OneDrive\Documentos\Aulas de Quinta feira\ProjetoBancoDedados\obj\Debug\ProjetoBancoDedados.Properties.Resources.resources
+C:\Users\Lucas\OneDrive\Documentos\Aulas de Quinta feira\ProjetoBancoDedados\obj\Debug\ProjetoBancoDedados.csproj.GenerateResource.cache
+C:\Users\Lucas\OneDrive\Documentos\Aulas de Quinta feira\ProjetoBancoDedados\obj\Debug\ProjetoBancoDedados.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\OneDrive\Documentos\Aulas de Quinta feira\ProjetoBancoDedados\obj\Debug\ProjetoBancoDedados.csproj.CopyComplete
+C:\Users\Lucas\OneDrive\Documentos\Aulas de Quinta feira\ProjetoBancoDedados\obj\Debug\ProjetoBancoDedados.exe
+C:\Users\Lucas\OneDrive\Documentos\Aulas de Quinta feira\ProjetoBancoDedados\obj\Debug\ProjetoBancoDedados.pdb
+C:\Users\Lucas\OneDrive\Documentos\03 BIMESTRE\Aulas de Quinta feira\ProjetoBancoDedados\bin\Debug\ProjetoBancoDedados.exe.config
+C:\Users\Lucas\OneDrive\Documentos\03 BIMESTRE\Aulas de Quinta feira\ProjetoBancoDedados\bin\Debug\ProjetoBancoDedados.exe
+C:\Users\Lucas\OneDrive\Documentos\03 BIMESTRE\Aulas de Quinta feira\ProjetoBancoDedados\bin\Debug\ProjetoBancoDedados.pdb
+C:\Users\Lucas\OneDrive\Documentos\03 BIMESTRE\Aulas de Quinta feira\ProjetoBancoDedados\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Lucas\OneDrive\Documentos\03 BIMESTRE\Aulas de Quinta feira\ProjetoBancoDedados\bin\Debug\Google.Protobuf.dll
+C:\Users\Lucas\OneDrive\Documentos\03 BIMESTRE\Aulas de Quinta feira\ProjetoBancoDedados\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Lucas\OneDrive\Documentos\03 BIMESTRE\Aulas de Quinta feira\ProjetoBancoDedados\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Lucas\OneDrive\Documentos\03 BIMESTRE\Aulas de Quinta feira\ProjetoBancoDedados\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Lucas\OneDrive\Documentos\03 BIMESTRE\Aulas de Quinta feira\ProjetoBancoDedados\bin\Debug\MySql.Data.dll
+C:\Users\Lucas\OneDrive\Documentos\03 BIMESTRE\Aulas de Quinta feira\ProjetoBancoDedados\bin\Debug\Renci.SshNet.dll
+C:\Users\Lucas\OneDrive\Documentos\03 BIMESTRE\Aulas de Quinta feira\ProjetoBancoDedados\bin\Debug\System.Buffers.dll
+C:\Users\Lucas\OneDrive\Documentos\03 BIMESTRE\Aulas de Quinta feira\ProjetoBancoDedados\bin\Debug\System.Memory.dll
+C:\Users\Lucas\OneDrive\Documentos\03 BIMESTRE\Aulas de Quinta feira\ProjetoBancoDedados\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Lucas\OneDrive\Documentos\03 BIMESTRE\Aulas de Quinta feira\ProjetoBancoDedados\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Lucas\OneDrive\Documentos\03 BIMESTRE\Aulas de Quinta feira\ProjetoBancoDedados\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Lucas\OneDrive\Documentos\03 BIMESTRE\Aulas de Quinta feira\ProjetoBancoDedados\bin\Debug\Zstandard.Net.dll
+C:\Users\Lucas\OneDrive\Documentos\03 BIMESTRE\Aulas de Quinta feira\ProjetoBancoDedados\bin\Debug\Google.Protobuf.xml
+C:\Users\Lucas\OneDrive\Documentos\03 BIMESTRE\Aulas de Quinta feira\ProjetoBancoDedados\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Lucas\OneDrive\Documentos\03 BIMESTRE\Aulas de Quinta feira\ProjetoBancoDedados\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Lucas\OneDrive\Documentos\03 BIMESTRE\Aulas de Quinta feira\ProjetoBancoDedados\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Lucas\OneDrive\Documentos\03 BIMESTRE\Aulas de Quinta feira\ProjetoBancoDedados\bin\Debug\MySql.Data.xml
+C:\Users\Lucas\OneDrive\Documentos\03 BIMESTRE\Aulas de Quinta feira\ProjetoBancoDedados\bin\Debug\Renci.SshNet.xml
+C:\Users\Lucas\OneDrive\Documentos\03 BIMESTRE\Aulas de Quinta feira\ProjetoBancoDedados\bin\Debug\System.Buffers.xml
+C:\Users\Lucas\OneDrive\Documentos\03 BIMESTRE\Aulas de Quinta feira\ProjetoBancoDedados\bin\Debug\System.Memory.xml
+C:\Users\Lucas\OneDrive\Documentos\03 BIMESTRE\Aulas de Quinta feira\ProjetoBancoDedados\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Lucas\OneDrive\Documentos\03 BIMESTRE\Aulas de Quinta feira\ProjetoBancoDedados\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Lucas\OneDrive\Documentos\03 BIMESTRE\Aulas de Quinta feira\ProjetoBancoDedados\obj\Debug\ProjetoBancoDedados.csproj.AssemblyReference.cache
+C:\Users\Lucas\OneDrive\Documentos\03 BIMESTRE\Aulas de Quinta feira\ProjetoBancoDedados\obj\Debug\ProjetoBancoDedados.FrmFilme.resources
+C:\Users\Lucas\OneDrive\Documentos\03 BIMESTRE\Aulas de Quinta feira\ProjetoBancoDedados\obj\Debug\ProjetoBancoDedados.FrmHorario.resources
+C:\Users\Lucas\OneDrive\Documentos\03 BIMESTRE\Aulas de Quinta feira\ProjetoBancoDedados\obj\Debug\ProjetoBancoDedados.FrmHRSample.resources
+C:\Users\Lucas\OneDrive\Documentos\03 BIMESTRE\Aulas de Quinta feira\ProjetoBancoDedados\obj\Debug\ProjetoBancoDedados.FrmLogin.resources
+C:\Users\Lucas\OneDrive\Documentos\03 BIMESTRE\Aulas de Quinta feira\ProjetoBancoDedados\obj\Debug\ProjetoBancoDedados.FrmPrincipal.resources
+C:\Users\Lucas\OneDrive\Documentos\03 BIMESTRE\Aulas de Quinta feira\ProjetoBancoDedados\obj\Debug\ProjetoBancoDedados.FrmSala.resources
+C:\Users\Lucas\OneDrive\Documentos\03 BIMESTRE\Aulas de Quinta feira\ProjetoBancoDedados\obj\Debug\ProjetoBancoDedados.FrmUsuario.resources
+C:\Users\Lucas\OneDrive\Documentos\03 BIMESTRE\Aulas de Quinta feira\ProjetoBancoDedados\obj\Debug\ProjetoBancoDedados.Properties.Resources.resources
+C:\Users\Lucas\OneDrive\Documentos\03 BIMESTRE\Aulas de Quinta feira\ProjetoBancoDedados\obj\Debug\ProjetoBancoDedados.csproj.GenerateResource.cache
+C:\Users\Lucas\OneDrive\Documentos\03 BIMESTRE\Aulas de Quinta feira\ProjetoBancoDedados\obj\Debug\ProjetoBancoDedados.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\OneDrive\Documentos\03 BIMESTRE\Aulas de Quinta feira\ProjetoBancoDedados\obj\Debug\ProjetoBancoDedados.csproj.CopyComplete
+C:\Users\Lucas\OneDrive\Documentos\03 BIMESTRE\Aulas de Quinta feira\ProjetoBancoDedados\obj\Debug\ProjetoBancoDedados.exe
+C:\Users\Lucas\OneDrive\Documentos\03 BIMESTRE\Aulas de Quinta feira\ProjetoBancoDedados\obj\Debug\ProjetoBancoDedados.pdb
